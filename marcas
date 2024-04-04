@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <title>Suplementos | Marcas</title>
+    
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark navbar">
+        <div class="container-fluid">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Inicio</a>
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav  mb-2 mb-lg-0">
+              <li class="nav-item ">
+                <a class="navbar-brand "  href="productos.html">Productos</a>
+              </li>
+              <li class="nav-item">
+                <a class="navbar-brand" href="pack.html">Packs</a>
+              </li>
+              <li class="nav-item">
+                <a class="navbar-brand "  href="ofertas.html">Ofertas</a>
+              </li>
+            </ul>
+        </div>
+         <!-- Button trigger modal -->
+      <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+        Compra
+
+      </button>
+
+      <!-- Modal -->
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Carro de compras</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              ...
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+              <button type="button" class="btn btn-primary">Guardar compras</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </nav>
+    <div>
+        <img src="https://supletech.vtexassets.com/assets/vtex.file-manager-graphql/images/f2f6be0a-c397-420a-adcb-6712529edd57___489e5362445d0bf634e3577a42ad35ca.png" alt=""style="border border">
+    </div>
+    <div>
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_nlikn8mLBepjcQ5bS-5Aas9T_p5iCbwBj-ux4IQQ=s900-c-k-c0x00ffffff-no-rj" alt=""style="border border">
+    </div>
+    <div>
+        <img src="https://supletech.vtexassets.com/assets/vtex.file-manager-graphql/images/a249ffde-2652-49de-a873-e6c003622628___b0969a55197c0ffb450cf2680843104e.jpg">
+    </div>
+    <div>
+        <img src="https://supletech.vtexassets.com/assets/vtex.file-manager-graphql/images/1567535b-a600-4e02-840d-15736521bd51___6cba0ebaba29fd950c2880653d2520eb.png">
+    </div>
+    <div>
+        <img src="https://supletech.vtexassets.com/assets/vtex.file-manager-graphql/images/bc96456a-2650-4795-abe1-bb0514fc03bf___e5f0291c19ee26d94b171d5d60c74e0b.png">
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>
