@@ -64,7 +64,35 @@
             </div>
         </div>
     </nav>
+    <div class="row">
+        <div class="col">
+            <div class="card" style="width: 30rem;">
+                <img src="https://ginasiovirtual.com/wp-content/uploads/2015/02/tudo-sobre-whey-protein-jpg.webp"
+                    class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Card title 1</h5>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                        the card's content.</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card" style="width: 30rem;">
+                <img src="https://chilesuplementos.cl/wp-content/uploads/2023/12/NITRO-TECH-2LBS-PLATINUM.png"
+                    class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Las mejores Creatina</h5>
+                    <p class="card-text">Las podrás encontrar acá en tu distribuidor de confianza .</p>
+                </div>
+            </div>
+        </div>
+    </div>
 
 </body>
+
+
+
 
 </html>
