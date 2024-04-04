@@ -1,0 +1,37 @@
+/* Estilo para la barra de navegación */
+.navbar-custom {
+    background-color: black; 
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-custom .navbar-nav {
+    display: flex;
+    justify-content: center;
+}
+/* Estilo para el texto de la barra de navegación */
+.navbar-custom .navbar-dark .navbar-nav .nav-link {
+    color: white; 
+}
+
+.card-body{
+    
+    justify-content: center;
+    padding: 80px;
+    
+}
+
+.card {
+    margin-top: 40px; /* Ajusta la separación entre las cartas */
+    margin-bottom: 250px; /* Ajusta la separación entre las cartas */ 
+}
+
+
+.card-img-top {
+    width: 100%; /* Hacer que la imagen ocupe todo el ancho del contenedor */
+    height: 200px; /* Altura fija para las imágenes */
+    object-fit: cover; /* Escalar la imagen para que cubra todo el contenedor sin deformarse */ 
+}
+
+
+
